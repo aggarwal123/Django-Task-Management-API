@@ -138,7 +138,7 @@ The API will be available at `http://127.0.0.1:8000/`
 4. **Database Tables**:
     - **Tasks Table** - ![Request](media/tasks_db.png)
     - **Users Table** - ![Request](media/users_db.png)
-    - **Task Assigned Table** - ![Request](media/tasks assigned db.png)
+    - **Task Assigned Table** - ![Request](media/tasks_assigned_db.png)
 
 ### Video Demo
 
