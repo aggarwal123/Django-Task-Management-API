@@ -115,6 +115,10 @@ The API will be available at `http://127.0.0.1:8000/`
 
 ## Media
 
+### Video Demo
+
+[Watch Demo Video](https://drive.google.com/file/d/1bpCy_PJEZRo3fDsT6ZuNP4Dgdwhdsb3j/view?usp=sharing)
+
 ### Screenshots
 
 1. **Creating a Task (`POST /api/tasks/`)**
@@ -139,10 +143,6 @@ The API will be available at `http://127.0.0.1:8000/`
     - **Tasks Table** - ![Request](media/tasks_db.png)
     - **Users Table** - ![Request](media/users_db.png)
     - **Task Assigned Table** - ![Request](media/tasks_assigned_db.png)
-
-### Video Demo
-
-[Watch Demo Video](https://drive.google.com/file/d/1bpCy_PJEZRo3fDsT6ZuNP4Dgdwhdsb3j/view?usp=sharing)
 
 ## Contact
 
