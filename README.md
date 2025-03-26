@@ -119,25 +119,25 @@ The API will be available at `http://127.0.0.1:8000/`
 
 1. **Creating a Task (`POST /api/tasks/`)**
 
-    - **Request** - ![Request](media/Request for creating task api.png)
-    - **Success Response** - ![Success Response](media/Response for creating task api.png)
-    - **Error Example** - ![Error Example](media/Error for creating task api.png)
+    - **Request** - ![Request](media/Request_for_creating_task_api.png)
+    - **Success Response** - ![Success Response](media/Response_for_creating_task_api.png)
+    - **Error Example** - ![Error Example](media/Error_for_creating_task_api.png)
 
 2. **Assigning a Task (`POST /api/tasks/assign/`)**:
 
-    - **Request** - ![Request](media/Request for assigning task.png)
-    - **Success Response** - ![Success Response](media/Response for assigning task.png)
-    - **Error Example** - ![Error Example](media/Error for assigning task.png)
+    - **Request** - ![Request](media/Request_for_assigning_task.png)
+    - **Success Response** - ![Success Response](media/Response_for_assigning_task.png)
+    - **Error Example** - ![Error Example](media/Error_for_assigning_task.png)
 
 3. **Fetching User Tasks (`GET /api/tasks/user/{user_id}/`)**:
 
-    - **Request** - ![Request](media/Request for user's tasks api.png)
-    - **Success Response** - ![Success Response](media/Response for user's tasks api.png)
-    - **Error Example** - ![Error Example](media/Error for user's tasks api.png)
+    - **Request** - ![Request](media/Request_for_user's_tasks_api.png)
+    - **Success Response** - ![Success Response](media/Response_for_user's_tasks_api.png)
+    - **Error Example** - ![Error Example](media/Error_for_user's_tasks_api.png)
 
 4. **Database Tables**:
-    - **Tasks Table** - ![Request](media/tasks db.png)
-    - **Users Table** - ![Request](media/users db.png)
+    - **Tasks Table** - ![Request](media/tasks_db.png)
+    - **Users Table** - ![Request](media/users_db.png)
     - **Task Assigned Table** - ![Request](media/tasks assigned db.png)
 
 ### Video Demo
